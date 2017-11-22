@@ -10,4 +10,8 @@ attr_accessor :knowledge
     @knowledge << content
   end
 
+  def knowledge
+    @knowledge
+  end
+
 end
