@@ -7,7 +7,7 @@ attr_accessor :knowledge
   end
 
   def learn(content)
-
+    @knowledge << content
   end
 
 end
