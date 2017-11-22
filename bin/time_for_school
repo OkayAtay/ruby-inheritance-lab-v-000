@@ -23,4 +23,4 @@ araba.first_name = "Araba"
 araba.last_name = "Taylor"
 
 araba.learn(some_knowledge)
-puts "#{araba.knowledge}""
+puts "#{araba.knowledge}"
