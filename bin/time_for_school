@@ -18,7 +18,7 @@ steve.learn(some_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
-araba = Teacher.new
+araba = Student.new
 araba.first_name = "Araba"
 araba.last_name = "Taylor"
 
